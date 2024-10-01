@@ -1,1 +1,13 @@
 /* Place CSS styles here */
+label {
+    display:block;
+    margin-bottom: 4px;
+}
+
+input{
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+.logo {
+    width: 50px;
+}
